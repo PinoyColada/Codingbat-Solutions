@@ -1,6 +1,6 @@
 public class WarmUpOne {
     public static void main(String[] args) {
-
+        sleepIn(true, false);
 
     }
 
@@ -12,7 +12,7 @@ public class WarmUpOne {
      sleepIn(true, false) → false
      sleepIn(false, true) → true
      */
-    public boolean sleepIn(boolean weekday, boolean vacation) {
+    public static boolean sleepIn(boolean weekday, boolean vacation) {
         return !weekday || vacation;
     }
 
