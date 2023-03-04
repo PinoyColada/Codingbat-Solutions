@@ -33,26 +33,38 @@ public class WarmUpOne {
     sumDouble(3, 2) → 5
     sumDouble(2, 2) → 8
      */
-    public int sumDouble(int a, int b) {
+    public static int sumDouble(int a, int b) {
         if (a == b){
             return (a + b) * 2;
         }
         return a + b;
     }
 
-    /* Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
+    /* Given an int n, return the absolute difference between
+     n and 21, except return double the absolute difference if n is over 21.
 
     diff21(19) → 2
     diff21(10) → 11
     diff21(21) → 0
      */
-    public int diff21(int n) {
+    public static int diff21(int n) {
         if (n > 21){
             return (n - 21) * 2;
         }
         return 21 - n;
     }
 
+    /* We have a loud talking parrot. The "hour" parameter is the current hour time in the range 0..23.
+     We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.
+
+    parrotTrouble(true, 6) → true
+    parrotTrouble(true, 7) → false
+    parrotTrouble(false, 6) → false
+     */
+
+    public static boolean parrotTrouble(boolean talking, int hour) {
+        return talking && (hour < 7 || hour > 20);
+    }
 
 
 
