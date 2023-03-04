@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved diff21 question">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved parrotTrouble question">
       <change beforePath="$PROJECT_DIR$/src/WarmUpOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmUpOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       <workItem from="1677732307268" duration="699000" />
       <workItem from="1677819525921" duration="1300000" />
       <workItem from="1677867998060" duration="798000" />
-      <workItem from="1677941839833" duration="119000" />
+      <workItem from="1677941839833" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677900990613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solved parrotTrouble question">
+      <created>1677941979684</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677941979684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
     <MESSAGE value="solved monkeyTrouble question" />
     <MESSAGE value="solved sumDouble question" />
     <MESSAGE value="solved diff21 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved diff21 question" />
+    <MESSAGE value="solved parrotTrouble question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved parrotTrouble question" />
   </component>
 </project>

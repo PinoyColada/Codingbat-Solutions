@@ -66,6 +66,22 @@ public class WarmUpOne {
         return talking && (hour < 7 || hour > 20);
     }
 
+    /* Given 2 ints, a and b, return true if one if them is 10 or if their sum is 10.
+
+    makes10(9, 10) → true
+    makes10(9, 9) → false
+    makes10(1, 9) → true
+     */
+
+    public static boolean makes10(int a, int b) {
+        return a == 10 || b == 10 || a + b == 10;
+    }
+
+
+
+
+
+
 
 
 
