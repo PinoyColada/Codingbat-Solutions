@@ -85,10 +85,22 @@ public class WarmUpOne {
     nearHundred(89) → false
      */
 
-    public boolean nearHundred(int n) {
+    public static boolean nearHundred(int n) {
         return ((n >= 90 && n <= 110) || (n >= 190 && n <= 210));
     }
 
+    /* Given 2 int values, return true if one is negative and one is positive.
+     Except if the parameter "negative" is true, then return true only if both are negative.
+
+    posNeg(1, -1, false) → true
+    posNeg(-1, 1, false) → true
+    posNeg(-4, -5, true) → true
+
+     */
+
+    public static boolean posNeg(int a, int b, boolean negative) {
+        return ((((a < 0 && b > 0) || (a > 0 && b < 0)) && negative == false) || ((a < 0 && b < 0) && negative == true));
+    }
 
 
 
