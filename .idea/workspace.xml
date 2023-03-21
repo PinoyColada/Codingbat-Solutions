@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved or35 question">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved front22 question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WarmUpOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmUpOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <workItem from="1677941839833" duration="761000" />
       <workItem from="1678164777054" duration="85000" />
       <workItem from="1678242088696" duration="482000" />
-      <workItem from="1678423718805" duration="6292000" />
+      <workItem from="1678423718805" duration="7507000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679110922913</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="solved front22 question">
+      <created>1679284171176</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679284171176</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +190,7 @@
     <MESSAGE value="solved front3 question" />
     <MESSAGE value="solved backAround question" />
     <MESSAGE value="solved or35 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved or35 question" />
+    <MESSAGE value="solved front22 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved front22 question" />
   </component>
 </project>
