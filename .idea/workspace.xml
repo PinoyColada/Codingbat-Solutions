@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved front22 question">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved startHi question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <workItem from="1677941839833" duration="761000" />
       <workItem from="1678164777054" duration="85000" />
       <workItem from="1678242088696" duration="482000" />
-      <workItem from="1678423718805" duration="7507000" />
+      <workItem from="1678423718805" duration="8750000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679284171176</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="solved startHi question">
+      <created>1679362615452</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679362615452</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     <MESSAGE value="solved backAround question" />
     <MESSAGE value="solved or35 question" />
     <MESSAGE value="solved front22 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved front22 question" />
+    <MESSAGE value="solved startHi question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved startHi question" />
   </component>
 </project>
