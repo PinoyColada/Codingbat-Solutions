@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved loneTeen question">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved delDel question">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WarmUpOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmUpOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
       <workItem from="1677941839833" duration="761000" />
       <workItem from="1678164777054" duration="85000" />
       <workItem from="1678242088696" duration="482000" />
-      <workItem from="1678423718805" duration="9592000" />
+      <workItem from="1678423718805" duration="10859000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -192,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679506985040</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="solved delDel question">
+      <created>1679507039734</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679507039734</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +239,7 @@
     <MESSAGE value="solved in1020 question" />
     <MESSAGE value="solved hasTeen question" />
     <MESSAGE value="solved loneTeen question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved loneTeen question" />
+    <MESSAGE value="solved delDel question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved delDel question" />
   </component>
 </project>
