@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved close10 question">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved in3050 question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WarmUpOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmUpOne.java" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
       <workItem from="1677941839833" duration="761000" />
       <workItem from="1678164777054" duration="85000" />
       <workItem from="1678242088696" duration="482000" />
-      <workItem from="1678423718805" duration="12582000" />
+      <workItem from="1678423718805" duration="13021000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679854651112</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="solved in3050 question">
+      <created>1679854999685</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679854999685</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +253,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added sleepIn method in main" />
     <MESSAGE value="solved monkeyTrouble question" />
     <MESSAGE value="solved sumDouble question" />
     <MESSAGE value="solved diff21 question" />
@@ -271,6 +277,7 @@
     <MESSAGE value="solved startOz question" />
     <MESSAGE value="solved intMax question" />
     <MESSAGE value="solved close10 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved close10 question" />
+    <MESSAGE value="solved in3050 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved in3050 question" />
   </component>
 </project>
