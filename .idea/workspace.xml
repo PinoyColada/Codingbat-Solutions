@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved lastDigit question">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved endUp question">
       <change beforePath="$PROJECT_DIR$/src/WarmUpOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarmUpOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <workItem from="1677941839833" duration="761000" />
       <workItem from="1678164777054" duration="85000" />
       <workItem from="1678242088696" duration="482000" />
-      <workItem from="1678423718805" duration="14518000" />
+      <workItem from="1678423718805" duration="14807000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679856571947</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="solved endUp question">
+      <created>1679856941683</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679856941683</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +280,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved parrotTrouble question" />
     <MESSAGE value="solved makes10 question" />
     <MESSAGE value="solved nearHundred question" />
     <MESSAGE value="solved posNeg question" />
@@ -298,6 +304,7 @@
     <MESSAGE value="solved max1020- question" />
     <MESSAGE value="solved stringE question" />
     <MESSAGE value="solved lastDigit question" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved lastDigit question" />
+    <MESSAGE value="solved endUp question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved endUp question" />
   </component>
 </project>
