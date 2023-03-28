@@ -162,7 +162,8 @@ public class WarmUpTwo {
     }
 
     /*
-    Given an array of ints, return true if one of the first 4 elements in the array is a 9. The array length may be less than 4.
+    Given an array of ints, return true if one of the first 4 elements in the array is a 9.
+    The array length may be less than 4.
 
     arrayFront9([1, 2, 9, 3, 4]) → true
     arrayFront9([1, 2, 3, 4, 9]) → false
@@ -178,6 +179,31 @@ public class WarmUpTwo {
         }
         return false;
     }
+
+    /*
+    Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
+
+    array123([1, 1, 2, 3, 1]) → true
+    array123([1, 1, 2, 4, 1]) → false
+    array123([1, 1, 2, 1, 2, 3]) → true
+     */
+    public boolean array123(int[] nums) {
+        if (nums.length < 3){
+            return false;
+        }
+        for (int i = 0; i < nums.length; i++){
+            if(nums[i] == 1){
+                if(i + 1 < nums.length && nums[i + 1] == 2 ){
+                    if (i + 2 < nums.length && nums[i + 2] == 3 ){
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+
 
 
 
