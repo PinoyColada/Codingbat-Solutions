@@ -203,6 +203,28 @@ public class WarmUpTwo {
         return false;
     }
 
+    /* Given 2 strings, a and b, return the number of the positions where they
+     contain the same length 2 substring. So "xxcaazz" and "xxbaaz" yields 3,
+     since the "xx", "aa", and "az" substrings appear in the same place in both strings.
+
+    stringMatch("xxcaazz", "xxbaaz") → 3
+    stringMatch("abc", "abc") → 2
+    stringMatch("abc", "axc") → 0
+     */
+
+    public int stringMatch(String a, String b) {
+        int counter = 0;
+        for (int i = 0; i < a.length() - 1 && i < b.length() - 1; i++){
+            if (a.charAt(i) == b.charAt(i)){
+                if (a.charAt(i + 1) == b.charAt(i + 1)){
+                    counter++;
+                }
+            }
+        }
+        return counter;
+    }
+
+
     /* Given a string, return a string made of the chars at indexes
      0,1, 4,5, 8,9 ... so "kittens" yields "kien".
 
