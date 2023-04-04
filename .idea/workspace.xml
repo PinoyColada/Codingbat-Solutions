@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makeOutWord problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved extraEnd problem">
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,14 +56,7 @@
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
       <workItem from="1680566686865" duration="677000" />
-      <workItem from="1680620936411" duration="26000" />
-    </task>
-    <task id="LOCAL-00002" summary="added sleepIn method in main">
-      <created>1677819577035</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1677819577035</updated>
+      <workItem from="1680620936411" duration="182000" />
     </task>
     <task id="LOCAL-00003" summary="solved monkeyTrouble question">
       <created>1677900866071</created>
@@ -402,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680567360892</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="solved extraEnd problem">
+      <created>1680620975407</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1680620975408</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved close10 question" />
     <MESSAGE value="solved in3050 question" />
     <MESSAGE value="solved max1020- question" />
     <MESSAGE value="solved stringE question" />
@@ -445,6 +443,7 @@
     <MESSAGE value="solved makeAbba problem" />
     <MESSAGE value="solved makeTags problem" />
     <MESSAGE value="solved makeOutWord problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved makeOutWord problem" />
+    <MESSAGE value="solved extraEnd problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved extraEnd problem" />
   </component>
 </project>
