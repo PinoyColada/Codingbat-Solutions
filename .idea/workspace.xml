@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makeAbba problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makeTags problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <workItem from="1680018701646" duration="1490000" />
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
-      <workItem from="1680566686865" duration="284000" />
+      <workItem from="1680566686865" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
       <created>1677732634448</created>
@@ -393,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680566880214</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="solved makeTags problem">
+      <created>1680566981030</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1680566981030</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved startOz question" />
     <MESSAGE value="solved intMax question" />
     <MESSAGE value="solved close10 question" />
     <MESSAGE value="solved in3050 question" />
@@ -436,6 +443,7 @@
     <MESSAGE value="finished stringX question" />
     <MESSAGE value="created StringOne file, solved helloName problem" />
     <MESSAGE value="solved makeAbba problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved makeAbba problem" />
+    <MESSAGE value="solved makeTags problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved makeTags problem" />
   </component>
 </project>
