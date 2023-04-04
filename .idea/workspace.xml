@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved firstHalf problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved withoutEnd problem">
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,14 +56,7 @@
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
       <workItem from="1680566686865" duration="677000" />
-      <workItem from="1680620936411" duration="367000" />
-    </task>
-    <task id="LOCAL-00005" summary="solved diff21 question">
-      <created>1677900990613</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1677900990613</updated>
+      <workItem from="1680620936411" duration="460000" />
     </task>
     <task id="LOCAL-00006" summary="solved parrotTrouble question">
       <created>1677941979684</created>
@@ -402,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680621228750</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="solved withoutEnd problem">
+      <created>1680621323726</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1680621323726</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved stringE question" />
     <MESSAGE value="solved lastDigit question" />
     <MESSAGE value="solved endUp question" />
     <MESSAGE value="solved everyNth question, finished Warmup-1 section." />
@@ -445,6 +443,7 @@
     <MESSAGE value="solved extraEnd problem" />
     <MESSAGE value="solved firstTwo problem" />
     <MESSAGE value="solved firstHalf problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved firstHalf problem" />
+    <MESSAGE value="solved withoutEnd problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved withoutEnd problem" />
   </component>
 </project>
