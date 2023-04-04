@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved comboString problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved nonStart problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
@@ -57,14 +57,7 @@
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
       <workItem from="1680566686865" duration="677000" />
-      <workItem from="1680620936411" duration="556000" />
-    </task>
-    <task id="LOCAL-00007" summary="solved makes10 question">
-      <created>1677942001694</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1677942001694</updated>
+      <workItem from="1680620936411" duration="926000" />
     </task>
     <task id="LOCAL-00008" summary="solved nearHundred question">
       <created>1678164850630</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680621411180</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="solved nonStart problem">
+      <created>1680621535238</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1680621535238</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved endUp question" />
     <MESSAGE value="solved everyNth question, finished Warmup-1 section." />
     <MESSAGE value="created Warm up 2 file, finished stringTimes question." />
     <MESSAGE value="finished frontTimes question" />
@@ -445,6 +444,7 @@
     <MESSAGE value="solved firstHalf problem" />
     <MESSAGE value="solved withoutEnd problem" />
     <MESSAGE value="solved comboString problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved comboString problem" />
+    <MESSAGE value="solved nonStart problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved nonStart problem" />
   </component>
 </project>
