@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makeTags problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makeOutWord problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
@@ -56,14 +56,8 @@
       <workItem from="1680018701646" duration="1490000" />
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
-      <workItem from="1680566686865" duration="661000" />
-    </task>
-    <task id="LOCAL-00001" summary="created project for coding bat java solutions, solved &quot;Warmup-1&quot; question 1">
-      <created>1677732634448</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1677732634448</updated>
+      <workItem from="1680566686865" duration="677000" />
+      <workItem from="1680620936411" duration="26000" />
     </task>
     <task id="LOCAL-00002" summary="added sleepIn method in main">
       <created>1677819577035</created>
@@ -401,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680566981030</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="solved makeOutWord problem">
+      <created>1680567360891</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1680567360892</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved intMax question" />
     <MESSAGE value="solved close10 question" />
     <MESSAGE value="solved in3050 question" />
     <MESSAGE value="solved max1020- question" />
@@ -444,6 +444,7 @@
     <MESSAGE value="created StringOne file, solved helloName problem" />
     <MESSAGE value="solved makeAbba problem" />
     <MESSAGE value="solved makeTags problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved makeTags problem" />
+    <MESSAGE value="solved makeOutWord problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved makeOutWord problem" />
   </component>
 </project>
