@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved left2 problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved right2 problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +57,8 @@
       <workItem from="1680145310421" duration="47000" />
       <workItem from="1680316940683" duration="1940000" />
       <workItem from="1680566686865" duration="677000" />
-      <workItem from="1680620936411" duration="1062000" />
-    </task>
-    <task id="LOCAL-00009" summary="solved posNeg question">
-      <created>1678242567481</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1678242567481</updated>
+      <workItem from="1680620936411" duration="1133000" />
+      <workItem from="1680698542169" duration="184000" />
     </task>
     <task id="LOCAL-00010" summary="solved notString question">
       <created>1678423825084</created>
@@ -401,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680621873957</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="solved right2 problem">
+      <created>1680622010947</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1680622010947</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created Warm up 2 file, finished stringTimes question." />
     <MESSAGE value="finished frontTimes question" />
     <MESSAGE value="finished countXX question" />
     <MESSAGE value="finished doubleX question" />
@@ -444,6 +445,7 @@
     <MESSAGE value="solved comboString problem" />
     <MESSAGE value="solved nonStart problem" />
     <MESSAGE value="solved left2 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved left2 problem" />
+    <MESSAGE value="solved right2 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved right2 problem" />
   </component>
 </project>
