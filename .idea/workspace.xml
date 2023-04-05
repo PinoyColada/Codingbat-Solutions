@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved withouEnd problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved middleTwo problem">
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,14 +57,7 @@
       <workItem from="1680316940683" duration="1940000" />
       <workItem from="1680566686865" duration="677000" />
       <workItem from="1680620936411" duration="1133000" />
-      <workItem from="1680698542169" duration="550000" />
-    </task>
-    <task id="LOCAL-00012" summary="solved frontBack question">
-      <created>1678564523963</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1678564523963</updated>
+      <workItem from="1680698542169" duration="706000" />
     </task>
     <task id="LOCAL-00013" summary="solved front3 question">
       <created>1678678681662</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680698882897</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="solved middleTwo problem">
+      <created>1680699103590</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1680699103590</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished doubleX question" />
     <MESSAGE value="finished stringBits question" />
     <MESSAGE value="finished stringSplosion question" />
     <MESSAGE value="finished last2 question" />
@@ -445,6 +444,7 @@
     <MESSAGE value="solved right2 problem" />
     <MESSAGE value="solved theEnd problem" />
     <MESSAGE value="solved withouEnd problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved withouEnd problem" />
+    <MESSAGE value="solved middleTwo problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved middleTwo problem" />
   </component>
 </project>
