@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved nTwice problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved atFirst problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
@@ -59,14 +59,7 @@
       <workItem from="1680566686865" duration="677000" />
       <workItem from="1680620936411" duration="1133000" />
       <workItem from="1680698542169" duration="2153000" />
-      <workItem from="1680833255987" duration="30000" />
-    </task>
-    <task id="LOCAL-00015" summary="solved or35 question">
-      <created>1679110922913</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1679110922913</updated>
+      <workItem from="1680833255987" duration="675000" />
     </task>
     <task id="LOCAL-00016" summary="solved front22 question">
       <created>1679284171176</created>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680699500696</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="solved atFirst problem">
+      <created>1680833301320</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1680833301321</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished last2 question" />
     <MESSAGE value="finished arrayCount9 question" />
     <MESSAGE value="finished arrayFront9 question" />
     <MESSAGE value="finished array123 question" />
@@ -447,6 +446,7 @@
     <MESSAGE value="solved middleTwo problem" />
     <MESSAGE value="solved endsLy problem" />
     <MESSAGE value="solved nTwice problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved nTwice problem" />
+    <MESSAGE value="solved atFirst problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved atFirst problem" />
   </component>
 </project>
