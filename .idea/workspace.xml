@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved lastTwo problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved frontAgain problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringOne.java" afterDir="false" />
     </list>
@@ -59,21 +59,7 @@
       <workItem from="1680566686865" duration="677000" />
       <workItem from="1680620936411" duration="1133000" />
       <workItem from="1680698542169" duration="2153000" />
-      <workItem from="1680833255987" duration="3054000" />
-    </task>
-    <task id="LOCAL-00019" summary="solved in1020 question">
-      <created>1679433601441</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1679433601441</updated>
-    </task>
-    <task id="LOCAL-00020" summary="solved hasTeen question">
-      <created>1679433654206</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1679433654206</updated>
+      <workItem from="1680833255987" duration="3934000" />
     </task>
     <task id="LOCAL-00021" summary="solved loneTeen question">
       <created>1679506985040</created>
@@ -404,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680905616601</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="solved seeColor problem">
+      <created>1680959635955</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1680959635955</updated>
+    </task>
+    <task id="LOCAL-00069" summary="solved frontAgain problem">
+      <created>1680959890440</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1680959890440</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,8 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished altPairs question" />
-    <MESSAGE value="finished stringYak question" />
     <MESSAGE value="finished stringMatch question" />
     <MESSAGE value="finished stringX question" />
     <MESSAGE value="created StringOne file, solved helloName problem" />
@@ -447,6 +445,8 @@
     <MESSAGE value="solved lastChars problem" />
     <MESSAGE value="solved conCat problem" />
     <MESSAGE value="solved lastTwo problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved lastTwo problem" />
+    <MESSAGE value="solved seeColor problem" />
+    <MESSAGE value="solved frontAgain problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved frontAgain problem" />
   </component>
 </project>
