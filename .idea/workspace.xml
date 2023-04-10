@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved deFront problem">
-      <change afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved cigarParty problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +60,7 @@
       <workItem from="1680620936411" duration="1133000" />
       <workItem from="1680698542169" duration="2153000" />
       <workItem from="1680833255987" duration="7111000" />
-      <workItem from="1681156435850" duration="910000" />
-    </task>
-    <task id="LOCAL-00025" summary="solved intMax question">
-      <created>1679854582244</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1679854582244</updated>
+      <workItem from="1681156435850" duration="1220000" />
     </task>
     <task id="LOCAL-00026" summary="solved close10 question">
       <created>1679854651112</created>
@@ -405,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681062112842</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="solved cigarParty problem">
+      <created>1681157960745</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1681157960746</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved makeTags problem" />
     <MESSAGE value="solved makeOutWord problem" />
     <MESSAGE value="solved extraEnd problem" />
     <MESSAGE value="solved firstTwo problem" />
@@ -448,6 +447,7 @@
     <MESSAGE value="solved extraFront problem" />
     <MESSAGE value="solved without2 problem" />
     <MESSAGE value="solved deFront problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved deFront problem" />
+    <MESSAGE value="solved cigarParty problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved cigarParty problem" />
   </component>
 </project>
