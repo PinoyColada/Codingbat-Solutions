@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="added README file">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved sortaSum problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
@@ -61,14 +61,8 @@
       <workItem from="1680698542169" duration="2153000" />
       <workItem from="1680833255987" duration="7111000" />
       <workItem from="1681156435850" duration="3235000" />
-      <workItem from="1681271733794" duration="36000" />
-    </task>
-    <task id="LOCAL-00029" summary="solved stringE question">
-      <created>1679856060592</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1679856060592</updated>
+      <workItem from="1681271733794" duration="52000" />
+      <workItem from="1681353879069" duration="42000" />
     </task>
     <task id="LOCAL-00030" summary="solved lastDigit question">
       <created>1679856571947</created>
@@ -406,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681160112515</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="solved sortaSum problem">
+      <created>1681271782103</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1681271782103</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved firstHalf problem" />
     <MESSAGE value="solved withoutEnd problem" />
     <MESSAGE value="solved comboString problem" />
     <MESSAGE value="solved nonStart problem" />
@@ -449,6 +449,7 @@
     <MESSAGE value="solved dateFashion problem" />
     <MESSAGE value="solved squirrelPlay problem" />
     <MESSAGE value="added README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added README file" />
+    <MESSAGE value="solved sortaSum problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved sortaSum problem" />
   </component>
 </project>
