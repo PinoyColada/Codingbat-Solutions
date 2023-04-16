@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved specialEleven problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved more20 problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
@@ -64,14 +64,8 @@
       <workItem from="1681271733794" duration="52000" />
       <workItem from="1681353879069" duration="99000" />
       <workItem from="1681439675582" duration="266000" />
-      <workItem from="1681502583395" duration="1495000" />
-    </task>
-    <task id="LOCAL-00035" summary="finished countXX question">
-      <created>1679924990729</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1679924990729</updated>
+      <workItem from="1681502583395" duration="1973000" />
+      <workItem from="1681666467246" duration="21000" />
     </task>
     <task id="LOCAL-00036" summary="finished doubleX question">
       <created>1679925206854</created>
@@ -409,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681503116795</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="solved more20 problem">
+      <created>1681507510166</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1681507510166</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved theEnd problem" />
     <MESSAGE value="solved withouEnd problem" />
     <MESSAGE value="solved middleTwo problem" />
     <MESSAGE value="solved endsLy problem" />
@@ -452,6 +452,7 @@
     <MESSAGE value="solved love6 problem" />
     <MESSAGE value="solved int1To10 problem" />
     <MESSAGE value="solved specialEleven problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved specialEleven problem" />
+    <MESSAGE value="solved more20 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved more20 problem" />
   </component>
 </project>
