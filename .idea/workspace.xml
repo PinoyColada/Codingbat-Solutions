@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved more20 problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved old35 problem">
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,14 +64,7 @@
       <workItem from="1681353879069" duration="99000" />
       <workItem from="1681439675582" duration="266000" />
       <workItem from="1681502583395" duration="1973000" />
-      <workItem from="1681666467246" duration="21000" />
-    </task>
-    <task id="LOCAL-00036" summary="finished doubleX question">
-      <created>1679925206854</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1679925206854</updated>
+      <workItem from="1681666467246" duration="118000" />
     </task>
     <task id="LOCAL-00037" summary="finished stringBits question">
       <created>1679928292853</created>
@@ -410,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681507510166</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="solved old35 problem">
+      <created>1681666498867</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666498868</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved withouEnd problem" />
     <MESSAGE value="solved middleTwo problem" />
     <MESSAGE value="solved endsLy problem" />
     <MESSAGE value="solved nTwice problem" />
@@ -453,6 +451,7 @@
     <MESSAGE value="solved int1To10 problem" />
     <MESSAGE value="solved specialEleven problem" />
     <MESSAGE value="solved more20 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved more20 problem" />
+    <MESSAGE value="solved old35 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved old35 problem" />
   </component>
 </project>
