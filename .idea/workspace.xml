@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved nearTen problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved teenSum problem">
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +64,7 @@
       <workItem from="1681353879069" duration="99000" />
       <workItem from="1681439675582" duration="266000" />
       <workItem from="1681502583395" duration="1973000" />
-      <workItem from="1681666467246" duration="453000" />
-    </task>
-    <task id="LOCAL-00039" summary="finished last2 question">
-      <created>1680018752872</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1680018752872</updated>
+      <workItem from="1681666467246" duration="673000" />
     </task>
     <task id="LOCAL-00040" summary="finished arrayCount9 question">
       <created>1680018910042</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681666817055</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="solved teenSum problem">
+      <created>1681666929037</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666929037</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved nTwice problem" />
     <MESSAGE value="solved atFirst problem" />
     <MESSAGE value="solved lastChars problem" />
     <MESSAGE value="solved conCat problem" />
@@ -452,6 +451,7 @@
     <MESSAGE value="solved old35 problem" />
     <MESSAGE value="solved less20 problem" />
     <MESSAGE value="solved nearTen problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved nearTen problem" />
+    <MESSAGE value="solved teenSum problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved teenSum problem" />
   </component>
 </project>
