@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved fizzString problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved fizzString2 problem">
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +65,7 @@
       <workItem from="1681439675582" duration="266000" />
       <workItem from="1681502583395" duration="1973000" />
       <workItem from="1681666467246" duration="1596000" />
-      <workItem from="1681765286389" duration="1814000" />
-    </task>
-    <task id="LOCAL-00043" summary="finished altPairs question">
-      <created>1680145351291</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1680145351291</updated>
+      <workItem from="1681765286389" duration="2088000" />
     </task>
     <task id="LOCAL-00044" summary="finished stringYak question">
       <created>1680316976221</created>
@@ -411,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681779800242</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="solved fizzString2 problem">
+      <created>1681781492897</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1681781492897</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved lastTwo problem" />
     <MESSAGE value="solved seeColor problem" />
     <MESSAGE value="solved frontAgain problem" />
     <MESSAGE value="solved minCat problem" />
@@ -454,6 +452,7 @@
     <MESSAGE value="solved answerCell problem" />
     <MESSAGE value="solved teaParty problem" />
     <MESSAGE value="solved fizzString problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved fizzString problem" />
+    <MESSAGE value="solved fizzString2 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved fizzString2 problem" />
   </component>
 </project>
