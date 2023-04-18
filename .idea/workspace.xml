@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved teenSum problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved answerCell problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +65,8 @@
       <workItem from="1681353879069" duration="99000" />
       <workItem from="1681439675582" duration="266000" />
       <workItem from="1681502583395" duration="1973000" />
-      <workItem from="1681666467246" duration="673000" />
-    </task>
-    <task id="LOCAL-00040" summary="finished arrayCount9 question">
-      <created>1680018910042</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1680018910042</updated>
+      <workItem from="1681666467246" duration="1596000" />
+      <workItem from="1681765286389" duration="982000" />
     </task>
     <task id="LOCAL-00041" summary="finished arrayFront9 question">
       <created>1680019181659</created>
@@ -409,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681666929037</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="solved answerCell problem">
+      <created>1681667152241</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1681667152241</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved atFirst problem" />
     <MESSAGE value="solved lastChars problem" />
     <MESSAGE value="solved conCat problem" />
     <MESSAGE value="solved lastTwo problem" />
@@ -452,6 +453,7 @@
     <MESSAGE value="solved less20 problem" />
     <MESSAGE value="solved nearTen problem" />
     <MESSAGE value="solved teenSum problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved teenSum problem" />
+    <MESSAGE value="solved answerCell problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved answerCell problem" />
   </component>
 </project>
