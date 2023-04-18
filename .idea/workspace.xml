@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved teaParty problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved fizzString problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,14 +66,7 @@
       <workItem from="1681439675582" duration="266000" />
       <workItem from="1681502583395" duration="1973000" />
       <workItem from="1681666467246" duration="1596000" />
-      <workItem from="1681765286389" duration="1150000" />
-    </task>
-    <task id="LOCAL-00042" summary="finished array123 question">
-      <created>1680019592792</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1680019592792</updated>
+      <workItem from="1681765286389" duration="1814000" />
     </task>
     <task id="LOCAL-00043" summary="finished altPairs question">
       <created>1680145351291</created>
@@ -410,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681779633415</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="solved fizzString problem">
+      <created>1681779800242</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1681779800242</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved conCat problem" />
     <MESSAGE value="solved lastTwo problem" />
     <MESSAGE value="solved seeColor problem" />
     <MESSAGE value="solved frontAgain problem" />
@@ -453,6 +453,7 @@
     <MESSAGE value="solved teenSum problem" />
     <MESSAGE value="solved answerCell problem" />
     <MESSAGE value="solved teaParty problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved teaParty problem" />
+    <MESSAGE value="solved fizzString problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved fizzString problem" />
   </component>
 </project>
