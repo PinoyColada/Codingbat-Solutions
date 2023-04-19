@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved withoutDoubles problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved maxmod5 problem">
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +66,7 @@
       <workItem from="1681502583395" duration="1973000" />
       <workItem from="1681666467246" duration="1596000" />
       <workItem from="1681765286389" duration="4899000" />
-      <workItem from="1681932296807" duration="265000" />
-    </task>
-    <task id="LOCAL-00050" summary="solved makeOutWord problem">
-      <created>1680567360891</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1680567360892</updated>
+      <workItem from="1681932296807" duration="483000" />
     </task>
     <task id="LOCAL-00051" summary="solved extraEnd problem">
       <created>1680620975407</created>
@@ -411,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681932336493</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="solved maxmod5 problem">
+      <created>1681932573720</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1681932573720</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved cigarParty problem" />
     <MESSAGE value="solved dateFashion problem" />
     <MESSAGE value="solved squirrelPlay problem" />
     <MESSAGE value="added README file" />
@@ -454,6 +453,7 @@
     <MESSAGE value="solved lastDigit problem" />
     <MESSAGE value="solved lessBy10 problem" />
     <MESSAGE value="solved withoutDoubles problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved withoutDoubles problem" />
+    <MESSAGE value="solved maxmod5 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved maxmod5 problem" />
   </component>
 </project>
