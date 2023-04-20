@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved greenTicket problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved blueTicket problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
@@ -68,14 +68,7 @@
       <workItem from="1681666467246" duration="1596000" />
       <workItem from="1681765286389" duration="4899000" />
       <workItem from="1681932296807" duration="842000" />
-      <workItem from="1682026825942" duration="43000" />
-    </task>
-    <task id="LOCAL-00053" summary="solved firstHalf problem">
-      <created>1680621228750</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1680621228750</updated>
+      <workItem from="1682026825942" duration="391000" />
     </task>
     <task id="LOCAL-00054" summary="solved withoutEnd problem">
       <created>1680621323726</created>
@@ -413,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681933137646</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="solved blueTicket problem">
+      <created>1682026882784</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1682026882784</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added README file" />
     <MESSAGE value="solved sortaSum problem" />
     <MESSAGE value="solved caughtSpeeding problem" />
     <MESSAGE value="solved alarmClock problem" />
@@ -456,6 +455,7 @@
     <MESSAGE value="solved maxmod5 problem" />
     <MESSAGE value="solved redTicket problem" />
     <MESSAGE value="solved greenTicket problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved greenTicket problem" />
+    <MESSAGE value="solved blueTicket problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved blueTicket problem" />
   </component>
 </project>
