@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved shareDigit problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved sumLimit problem, finished all logicOne problems">
+      <change afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +68,8 @@
       <workItem from="1681666467246" duration="1596000" />
       <workItem from="1681765286389" duration="4899000" />
       <workItem from="1681932296807" duration="842000" />
-      <workItem from="1682026825942" duration="1237000" />
-    </task>
-    <task id="LOCAL-00055" summary="solved comboString problem">
-      <created>1680621411180</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1680621411180</updated>
+      <workItem from="1682026825942" duration="1280000" />
+      <workItem from="1682108573970" duration="245000" />
     </task>
     <task id="LOCAL-00056" summary="solved nonStart problem">
       <created>1680621535238</created>
@@ -413,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682027229256</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="solved sumLimit problem, finished all logicOne problems">
+      <created>1682028179193</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1682028179193</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved caughtSpeeding problem" />
     <MESSAGE value="solved alarmClock problem" />
     <MESSAGE value="solved love6 problem" />
     <MESSAGE value="solved int1To10 problem" />
@@ -456,6 +456,7 @@
     <MESSAGE value="solved greenTicket problem" />
     <MESSAGE value="solved blueTicket problem" />
     <MESSAGE value="solved shareDigit problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved shareDigit problem" />
+    <MESSAGE value="solved sumLimit problem, finished all logicOne problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved sumLimit problem, finished all logicOne problems" />
   </component>
 </project>
