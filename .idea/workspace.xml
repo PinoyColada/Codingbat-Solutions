@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved commonEnd problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved sum3 problem">
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,14 +68,7 @@
       <workItem from="1681765286389" duration="4899000" />
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
-      <workItem from="1682108573970" duration="2005000" />
-    </task>
-    <task id="LOCAL-00060" summary="solved withouEnd problem">
-      <created>1680698882897</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1680698882897</updated>
+      <workItem from="1682108573970" duration="2118000" />
     </task>
     <task id="LOCAL-00061" summary="solved middleTwo problem">
       <created>1680699103590</created>
@@ -414,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682109347453</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="solved sum3 problem">
+      <created>1682371599827</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1682371599827</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +431,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved more20 problem" />
     <MESSAGE value="solved old35 problem" />
     <MESSAGE value="solved less20 problem" />
     <MESSAGE value="solved nearTen problem" />
@@ -457,6 +455,7 @@
     <MESSAGE value="solved sameFirstLast problem" />
     <MESSAGE value="solved makePi problem" />
     <MESSAGE value="solved commonEnd problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved commonEnd problem" />
+    <MESSAGE value="solved sum3 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved sum3 problem" />
   </component>
 </project>
