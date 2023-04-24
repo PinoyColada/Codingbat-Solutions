@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved makePi problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved commonEnd problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +69,7 @@
       <workItem from="1681765286389" duration="4899000" />
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
-      <workItem from="1682108573970" duration="763000" />
-    </task>
-    <task id="LOCAL-00059" summary="solved theEnd problem">
-      <created>1680698735256</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1680698735256</updated>
+      <workItem from="1682108573970" duration="2005000" />
     </task>
     <task id="LOCAL-00060" summary="solved withouEnd problem">
       <created>1680698882897</created>
@@ -413,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682109070485</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="solved commonEnd problem">
+      <created>1682109347453</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1682109347453</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved specialEleven problem" />
     <MESSAGE value="solved more20 problem" />
     <MESSAGE value="solved old35 problem" />
     <MESSAGE value="solved less20 problem" />
@@ -456,6 +456,7 @@
     <MESSAGE value="created arrayOne file, solved firstLast6 problem" />
     <MESSAGE value="solved sameFirstLast problem" />
     <MESSAGE value="solved makePi problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved makePi problem" />
+    <MESSAGE value="solved commonEnd problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved commonEnd problem" />
   </component>
 </project>
