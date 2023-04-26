@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved rotateLeft3 problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved reverse3 problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
@@ -69,14 +69,7 @@
       <workItem from="1681765286389" duration="4899000" />
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
-      <workItem from="1682108573970" duration="2855000" />
-    </task>
-    <task id="LOCAL-00062" summary="solved endsLy problem">
-      <created>1680699263477</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1680699263477</updated>
+      <workItem from="1682108573970" duration="3652000" />
     </task>
     <task id="LOCAL-00063" summary="solved nTwice problem">
       <created>1680699500696</created>
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682371714180</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="solved reverse3 problem">
+      <created>1682437497372</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1682437497372</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved less20 problem" />
     <MESSAGE value="solved nearTen problem" />
     <MESSAGE value="solved teenSum problem" />
     <MESSAGE value="solved answerCell problem" />
@@ -457,6 +456,7 @@
     <MESSAGE value="solved commonEnd problem" />
     <MESSAGE value="solved sum3 problem" />
     <MESSAGE value="solved rotateLeft3 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved rotateLeft3 problem" />
+    <MESSAGE value="solved reverse3 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved reverse3 problem" />
   </component>
 </project>
