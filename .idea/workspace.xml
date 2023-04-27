@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved double23 problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved fix23 problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,14 +70,7 @@
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
       <workItem from="1682108573970" duration="3943000" />
-      <workItem from="1682567176208" duration="1822000" />
-    </task>
-    <task id="LOCAL-00071" summary="solved extraFront problem">
-      <created>1681061258261</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1681061258261</updated>
+      <workItem from="1682567176208" duration="2193000" />
     </task>
     <task id="LOCAL-00072" summary="solved without2 problem">
       <created>1681061844541</created>
@@ -414,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682625432746</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="solved fix23 problem">
+      <created>1682625720606</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1682625720606</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved inOrderEqual problem" />
     <MESSAGE value="solved lastDigit problem" />
     <MESSAGE value="solved lessBy10 problem" />
     <MESSAGE value="solved withoutDoubles problem" />
@@ -457,6 +457,7 @@
     <MESSAGE value="solved no23 problem" />
     <MESSAGE value="solved makeLast problem" />
     <MESSAGE value="solved double23 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved double23 problem" />
+    <MESSAGE value="solved fix23 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved fix23 problem" />
   </component>
 </project>
