@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved maxEnd3 problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved sum2 problem">
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +69,7 @@
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
       <workItem from="1682108573970" duration="3943000" />
-      <workItem from="1682567176208" duration="15000" />
-    </task>
-    <task id="LOCAL-00064" summary="solved atFirst problem">
-      <created>1680833301320</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1680833301321</updated>
+      <workItem from="1682567176208" duration="228000" />
     </task>
     <task id="LOCAL-00065" summary="solved lastChars problem">
       <created>1680904299745</created>
@@ -415,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682470395312</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="solved sum2 problem">
+      <created>1682567202565</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1682567202566</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved teenSum problem" />
     <MESSAGE value="solved answerCell problem" />
     <MESSAGE value="solved teaParty problem" />
     <MESSAGE value="solved fizzString problem" />
@@ -458,6 +456,7 @@
     <MESSAGE value="solved rotateLeft3 problem" />
     <MESSAGE value="solved reverse3 problem" />
     <MESSAGE value="solved maxEnd3 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved maxEnd3 problem" />
+    <MESSAGE value="solved sum2 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved sum2 problem" />
   </component>
 </project>
