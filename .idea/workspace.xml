@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved start1 problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved biggerTwo problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,14 +70,7 @@
       <workItem from="1681932296807" duration="842000" />
       <workItem from="1682026825942" duration="1280000" />
       <workItem from="1682108573970" duration="3943000" />
-      <workItem from="1682567176208" duration="2374000" />
-    </task>
-    <task id="LOCAL-00073" summary="solved deFront problem">
-      <created>1681062112842</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1681062112842</updated>
+      <workItem from="1682567176208" duration="3003000" />
     </task>
     <task id="LOCAL-00074" summary="solved cigarParty problem">
       <created>1681157960745</created>
@@ -414,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682626092994</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="solved biggerTwo problem">
+      <created>1682626275218</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1682626275218</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved lessBy10 problem" />
     <MESSAGE value="solved withoutDoubles problem" />
     <MESSAGE value="solved maxmod5 problem" />
     <MESSAGE value="solved redTicket problem" />
@@ -457,6 +457,7 @@
     <MESSAGE value="solved double23 problem" />
     <MESSAGE value="solved fix23 problem" />
     <MESSAGE value="solved start1 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved start1 problem" />
+    <MESSAGE value="solved biggerTwo problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved biggerTwo problem" />
   </component>
 </project>
