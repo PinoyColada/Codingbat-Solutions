@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved plusTwo problem">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved swapEnds problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
@@ -71,14 +71,7 @@
       <workItem from="1682026825942" duration="1280000" />
       <workItem from="1682108573970" duration="3943000" />
       <workItem from="1682567176208" duration="3607000" />
-      <workItem from="1682999624186" duration="637000" />
-    </task>
-    <task id="LOCAL-00076" summary="solved squirrelPlay problem">
-      <created>1681158417196</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1681158417196</updated>
+      <workItem from="1682999624186" duration="1259000" />
     </task>
     <task id="LOCAL-00077" summary="added README file">
       <created>1681160112515</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682999648573</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="solved swapEnds problem">
+      <created>1683086136120</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1683086136120</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved redTicket problem" />
     <MESSAGE value="solved greenTicket problem" />
     <MESSAGE value="solved blueTicket problem" />
     <MESSAGE value="solved shareDigit problem" />
@@ -459,6 +458,7 @@
     <MESSAGE value="solved biggerTwo problem" />
     <MESSAGE value="solved makeMiddle problem" />
     <MESSAGE value="solved plusTwo problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved plusTwo problem" />
+    <MESSAGE value="solved swapEnds problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved swapEnds problem" />
   </component>
 </project>
