@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved maxTriple problem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +70,7 @@
       <workItem from="1682026825942" duration="1280000" />
       <workItem from="1682108573970" duration="3943000" />
       <workItem from="1682567176208" duration="3607000" />
-      <workItem from="1682999624186" duration="2818000" />
-    </task>
-    <task id="LOCAL-00079" summary="solved caughtSpeeding problem">
-      <created>1681353934324</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1681353934324</updated>
+      <workItem from="1682999624186" duration="3065000" />
     </task>
     <task id="LOCAL-00080" summary="solved alarmClock problem">
       <created>1681439733554</created>
@@ -415,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683259106131</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="solved maxTriple problem">
+      <created>1683317140220</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1683317140220</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
