@@ -325,6 +325,31 @@ public class ArrayOne {
                 nums[nums.length / 2], nums[nums.length / 2 + 1]};
     }
 
+    /* Given an array of ints of odd length, look at the first, last,
+    and middle values in the array and return the largest. The array length will be a least 1.
+
+    maxTriple([1, 2, 3]) → 3
+    maxTriple([1, 5, 3]) → 5
+    maxTriple([5, 2, 3]) → 5
+     */
+
+    public int maxTriple(int[] nums) {
+        int result = 0;
+        int a = nums[0];
+        int b= nums[((nums.length+1)/2) -1];
+        int c = nums[nums.length -1];
+        if (a>b && a>c) {
+            result = a;
+        }
+        if (b>a && b>c){
+            result = b;
+        }
+        if (c>a && c>b){
+            result = c;
+        }
+        return result;
+    }
+
 
 
 
