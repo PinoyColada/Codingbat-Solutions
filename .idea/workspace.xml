@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="added doubleChar class">
+    <list default="true" id="5692b9b8-6f0c-4365-916e-23b141eefeb6" name="Changes" comment="solved doubleChar question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringTwo.java" afterDir="false" />
     </list>
@@ -73,14 +73,8 @@
       <workItem from="1682567176208" duration="3607000" />
       <workItem from="1682999624186" duration="4152000" />
       <workItem from="1683604442609" duration="731000" />
-      <workItem from="1683690119899" duration="639000" />
-    </task>
-    <task id="LOCAL-00083" summary="solved specialEleven problem">
-      <created>1681503116795</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1681503116795</updated>
+      <workItem from="1683690119899" duration="659000" />
+      <workItem from="1684209184945" duration="18000" />
     </task>
     <task id="LOCAL-00084" summary="solved more20 problem">
       <created>1681507510166</created>
@@ -418,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683604575681</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="solved doubleChar question">
+      <created>1683690955725</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1683690955725</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved makePi problem" />
     <MESSAGE value="solved commonEnd problem" />
     <MESSAGE value="solved sum3 problem" />
     <MESSAGE value="solved rotateLeft3 problem" />
@@ -461,6 +461,7 @@
     <MESSAGE value="solved front11 problem" />
     <MESSAGE value="added StringTwo class" />
     <MESSAGE value="added doubleChar class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added doubleChar class" />
+    <MESSAGE value="solved doubleChar question" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved doubleChar question" />
   </component>
 </project>
