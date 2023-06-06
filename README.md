@@ -6,7 +6,7 @@
 ***
 
 ### ***Description***
-#### Solved coding problems given on the [Codingbat](https://codingbat.com/java) website to help build coding skills
+#### This repo contains my solved coding solutions for the problems given on the [Codingbat](https://codingbat.com/java) website to help build coding skills
 ***
 
 ### ***Technologies Used***
